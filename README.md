@@ -1,16 +1,30 @@
-### Hi there 👋
 
-<!--
-**joaothedog/joaothedog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Humano | Human
 
-Here are some ideas to get you started:
+• João, 20 anos, estudante de computação | João, 20 years old, computer student.
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+## 🚀 Sobre mim | About me
+Fissurado por desenvolvimento web e proposto à aprender cada vez mais. | Fissured by web development and proposed to learn more and more.
+
+
+## Stack
+
+**Front-end:** ReactJS, Bulma/Bootstrap
+
+**Back-end:** Node, Express, PHP (basic)
+
+
+## 🔗 Links
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://katherinempeterson.com/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-oliveira-3322b6232/)
+
+
+
+## 🛠 Habilidades | Skills
+• JavaScript | HTML | CSS [Bootstrap/Bulma] | MongoDB | MySql | Git/GitHub
+
