@@ -7,7 +7,7 @@
 Fissurado por desenvolvimento web e proposto à aprender cada vez mais. | Fissured by web development and proposed to learn more and more.
 
 ## 🛠 Habilidades | Skills
-• JavaScript | HTML | CSS [Bootstrap/Bulma] | MongoDB | MySql | Git/GitHub
+• TypeScript (learning) | JavaScript | HTML | CSS [Bootstrap/Bulma] | MongoDB | MySql | Git/GitHub
 
 
 ## Stack
