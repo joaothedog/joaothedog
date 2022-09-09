@@ -4,7 +4,7 @@
 • João, 20 anos, estudante de computação | João, 20 years old, computer student.
  
 ## 🚀 Sobre mim | About me
-Fissurado por desenvolvimento web e proposto à aprender cada vez mais. | Fissured by web development and proposed to learn more and more.
+Fissurado por desenvolvimento web e disposto à aprender cada vez mais. | Fissured by web development and willing to learn more and more.
 
 ## 🛠 Habilidades | Skills
 • TypeScript (learning) | JavaScript | HTML | CSS [Bootstrap/Bulma] | MongoDB | MySql | Git/GitHub
