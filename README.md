@@ -1,20 +1,18 @@
 
 # Humano | Human
 
-• João, 20 anos, estudante de computação | João, 20 years old, computer student.
+• João, 21 anos, estudante de computação | João, 21 years old, computer student.
  
 ## 🚀 Sobre mim | About me
 Fissurado por desenvolvimento web e disposto à aprender cada vez mais. | Fissured by web development and willing to learn more and more.
 
 ## 🛠 Habilidades | Skills
-• TypeScript (learning) | JavaScript | HTML | CSS [Bootstrap/Bulma] | MongoDB | MySql | Git/GitHub
+• TypeScript | JavaScript | Git/GitHub
 
 
 ## Stack
 
-**Front-end:** ReactJS, Bulma/Bootstrap
-
-**Back-end:** Node, Express, PHP (basic)
+**Front-end:** ReactJS w/ Typescript
 
 
 ## 🔗 Links
