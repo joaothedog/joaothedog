@@ -1,21 +1,19 @@
+# João Vitor - Desenvolvedor e Entusiasta de Tecnologia
 
-# Humano | Human
+## Sobre Mim
 
-• João, 21 anos, estudante de computação | João, 21 years old, computer student.
- 
-## 🚀 Sobre mim | About me
-Fissurado por desenvolvimento web e disposto a aprender cada vez mais. | Fissured by web development and willing to learn more and more.
+Olá! Sou João Vitor, apaixonado por tecnologia e fascinado pelo funcionamento das coisas. Atualmente, estou me aprofundando no desenvolvimento web com Python, mas também tenho uma boa experiência no frontend, trabalhando com JavaScript, HTML e CSS. Além disso, tenho explorado a automação de tarefas, tanto com Python quanto com AutoHotkey, sempre em busca de melhorar minha produtividade e eficiência.
 
-## 🛠 Habilidades | Skills
-• TypeScript | JavaScript | Git/GitHub
+Com um foco crescente no desenvolvimento web, procuro desafios que me permitam crescer como programador e expandir meu conhecimento sobre novas tecnologias.
 
+## Skills
 
-## Stack
+- **Python**: Desenvolvimento web e automação de tarefas
+- **ReactJS**: Criação de interfaces dinâmicas e responsivas
+- **JavaScript**: Desenvolvimento frontend e lógica de programação
+- **AutoHotkey**: Automação de tarefas no sistema operacional
+- **Git/GitHub**: Controle de versão e colaboração em projetos
 
-**Front-end:** ReactJS w/ Typescript
+## Conecte-se Comigo
 
-
-## 🔗 Links
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eusoujoaovitor)
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-dev)
+- [LinkedIn](https://www.linkedin.com/in/soujoaovitor/)
