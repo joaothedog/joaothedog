@@ -10,18 +10,19 @@ Atualmente, estou finalizando minha graduação em Ciência da Computação pela
 ## 🚀 Skills e Tecnologias
 Linguagens & Frameworks:
 
-**Python**: Desenvolvimento web e automação
-**Django | Django REST Framework**: Criação de APIs seguras e escaláveis
-**ReactJS & TypeScript**: Interfaces dinâmicas e responsivas
-**JavaScript**: Lógica de programação e aplicações frontend
-**HTML5 & CSS3**: Desenvolvimento de layouts semânticos e estilização
+- **Python**: Desenvolvimento web e automação
+- **Django | Django REST Framework**: Criação de APIs seguras e escaláveis
+- **ReactJS & TypeScript**: Interfaces dinâmicas e responsivas
+- **JavaScript**: Lógica de programação e aplicações frontend
+- **HTML5 & CSS3**: Desenvolvimento de layouts semânticos e estilização
+
 Ferramentas & Bancos de Dados:
 
-**PostgreSQL | MySQL**: Estruturação e manutenção de bancos de dados robustos
-**Git & GitHub**: Controle de versão e colaboração em projetos
-**AutoHotkey**: Automação de tarefas no sistema operacional
+- **PostgreSQL | MySQL**: Estruturação e manutenção de bancos de dados robustos
+- **Git & GitHub**: Controle de versão e colaboração em projetos
+- **AutoHotkey**: Automação de tarefas no sistema operacional
 
 ## Conecte-se Comigo
 
 - [LinkedIn](https://www.linkedin.com/in/soujoaovitor/)
-📧 E-mail: jvcbatist4@outlook.com
+- 📧 E-mail: jvcbatist4@outlook.com
